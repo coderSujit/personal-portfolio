@@ -1,0 +1,44 @@
+/*===================01.Extra Small Device======================*/
+@media(min-width: 0px){
+    .sidebar {
+        background: #000;
+        z-index: 9999;
+    }
+    nav.navbar .logo-area {
+        display: none;
+    }
+}
+/*===================02.Small Device======================*/
+@media(min-width: 576px){}
+/*===================03.Medium Device======================*/
+@media(min-width: 768px){}
+/*===================04.large Device======================*/
+@media(min-width: 992px){}
+/*===================05.Extra Large Device======================*/
+@media(min-width: 1200px){
+    .sidebar {
+        left: 0;
+        background: transparent;
+    }
+    .sidebar .logo-area {
+        opacity: 0;
+    }
+    .main {
+        margin-left: 250px;
+    }
+    nav.navbar {
+        z-index: 999999;
+    }
+    nav.navbar .logo-area {
+        display: block;
+    }
+    nav.navbar .menu-bar {
+        display: none;
+    }
+    nav.navbar .logo-area {
+        border-bottom: 1px solid rgba(255,255,255,0.2);
+    }
+    footer.footer {
+        margin-left: 250px;
+    }
+}
