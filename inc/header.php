@@ -9,6 +9,7 @@
     <link type="text/css" rel="stylesheet" href="css/bootstrap.min.css">
 	<!-- Fontawesome CSS -->
     <link type="text/css" rel="stylesheet" href="css/font-awesome.min.css">
+    <link type="text/css" rel="stylesheet" href="css/all.min.css">
   <!-- AOS CSS -->
     <link type="text/css" rel="stylesheet" href="css/aos.css">
   <!-- Magnific Popup CSS -->
