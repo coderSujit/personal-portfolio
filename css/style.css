@@ -49,10 +49,10 @@ a:hover {
     background: #007bff;
     width: 45px;
     height: 45px;
+    line-height: 45px;
     text-align: center;
     color: #fff;
     border-radius: 50%;
-    line-height: 40px;
     font-size: 20px;
     cursor: pointer;
     z-index: 9999;
@@ -188,7 +188,6 @@ header.header-area .nav-menu ul li a span {
 	background-image: linear-gradient(rgba(5,13,24,0.3),rgba(5,13,24,0.3)), url(../images/hero-bg.jpg);
 	background-size: cover;
     height: 100vh;
-    background-attachment: fixed;
     overflow: hidden;
     background-position: center;
 }
@@ -231,8 +230,8 @@ header.header-area .nav-menu ul li a span {
 .facts-area {
 
 }
-.facts-area .count-box {
-	
+.facts-area .count-box i {
+	font-size: 40px;
 }
 .facts-area .count-box span {
 	font-size: 45px;

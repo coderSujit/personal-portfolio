@@ -10,6 +10,7 @@
 	<!-- Fontawesome CSS -->
     <link type="text/css" rel="stylesheet" href="css/font-awesome.min.css">
     <link type="text/css" rel="stylesheet" href="css/all.min.css">
+    <link type="text/css" rel="stylesheet" href="css/boxicons.min.css">
   <!-- AOS CSS -->
     <link type="text/css" rel="stylesheet" href="css/aos.css">
   <!-- Magnific Popup CSS -->
@@ -24,7 +25,7 @@
 
     <title>Portfolio</title>
   </head>
-  <body onload="preloader();">
+  <body onload="preloader();" data-spy="scroll" data-target="header.header">
 	 <div class="wrapper">
     <div class="preloader">
       <div class="loader"></div>
@@ -41,38 +42,38 @@
             <h4 class="font-weight-bold my-3">Sujit Sarkar</h4>
           </div>
           <div class="profile-social">
-            <a href=""><i class="fa fa-facebook"></i></a>
-            <a href=""><i class="fa fa-twitter"></i></a>
-            <a href=""><i class="fa fa-instagram"></i></a>
-            <a href=""><i class="fa fa-skype"></i></a>
-            <a href=""><i class="fa fa-linkedin"></i></a>
+            <a href=""><i class="bx bxl-facebook"></i></a>
+            <a href=""><i class="bx bxl-twitter"></i></a>
+            <a href=""><i class="bx bxl-instagram"></i></a>
+            <a href=""><i class="bx bxl-skype"></i></a>
+            <a href=""><i class="bx bxl-linkedin"></i></a>
           </div>
         </div>
         <nav class="nav-menu mt-4">
           <ul class="pl-0">
             <li class="active">
-              <a href="#home" class="e"><i class="fa fa-home mr-2"></i><span>Home</span></a>
+              <a href="#home" class="e"><i class="bx bx-home mr-2"></i><span>Home</span></a>
             </li>
             <li>
-              <a href="#about" class="e"><i class="fa fa-user mr-2"></i><span>About</span></a>
+              <a href="#about" class="e"><i class="bx bx-user mr-2"></i><span>About</span></a>
             </li>
             <li>
-              <a href="#resume" class="e"><i class="fa fa-copy mr-2"></i><span>Resume</span></a>
+              <a href="#resume" class="e"><i class="bx bx-copy mr-2"></i><span>Resume</span></a>
             </li>
             <li>
-              <a href="#portfolio" class="e"><i class="fa fa-book mr-2"></i><span>Portfolio</span></a>
+              <a href="#portfolio" class="e"><i class="bx bx-book mr-2"></i><span>Portfolio</span></a>
             </li>
             <li>
-              <a href="#service" class="e"><i class="fa fa-server mr-2"></i><span>Service</span></a>
+              <a href="#service" class="e"><i class="bx bx-server mr-2"></i><span>Service</span></a>
             </li>
             <li>
-              <a href="#contact" class="e"><i class="fa fa-envelope mr-2"></i><span>Contact</span></a>
+              <a href="#contact" class="e"><i class="bx bx-envelope mr-2"></i><span>Contact</span></a>
             </li>
           </ul>
         </nav>
         <div class="copy-right text-center text-white">
           <p class="mb-0">&copy; Copyright i<strong>Portfolio</strong></p>
-          <p>Design By <a href="www.facebook.com/" class="text-primary">Sujit Sarakar</a></p>
+          <p>Design By <a href="www.facebook.com/" class="text-primary">Sujit Sarkar</a></p>
         </div>
       </div>
    </header>

@@ -33,27 +33,27 @@
                <div class="col-lg-6">
                  <ul class="list-unstyled">
                    <li>
-                     <i class="fa fa-chevron-right text-primary"></i>
+                     <i class="bx bxs-chevron-right text-primary"></i>
                      <strong>Birthday:</strong>
                      <span>16 February 2001</span>
                    </li>
                    <li>
-                     <i class="fa fa-chevron-right text-primary"></i>
+                     <i class="bx bxs-chevron-right text-primary"></i>
                      <strong>Website:</strong>
                      <span>www.example.com</span>
                    </li>
                    <li>
-                     <i class="fa fa-chevron-right text-primary"></i>
+                     <i class="bx bxs-chevron-right text-primary"></i>
                      <strong>Birthday:</strong>
                      <span>16 February 2001</span>
                    </li>
                    <li>
-                     <i class="fa fa-chevron-right text-primary"></i>
+                     <i class="bx bxs-chevron-right text-primary"></i>
                      <strong>Phone:</strong>
                      <span>+880 1749-699156</span>
                    </li>
                    <li>
-                     <i class="fa fa-chevron-right text-primary"></i>
+                     <i class="bx bxs-chevron-right text-primary"></i>
                      <strong>City:</strong>
                      <span>Sylhet,Bangladesh</span>
                    </li>
@@ -62,27 +62,27 @@
                <div class="col-lg-6">
                  <ul class="list-unstyled">
                    <li>
-                     <i class="fa fa-chevron-right text-primary"></i>
+                     <i class="bx bxs-chevron-right text-primary"></i>
                      <strong>Age:</strong>
                      <span>19</span>
                    </li>
                    <li>
-                     <i class="fa fa-chevron-right text-primary"></i>
+                     <i class="bx bxs-chevron-right text-primary"></i>
                      <strong>Website:</strong>
                      <span>www.example.com</span>
                    </li>
                    <li>
-                     <i class="fa fa-chevron-right text-primary"></i>
+                     <i class="bx bxs-chevron-right text-primary"></i>
                      <strong>Degree:</strong>
                      <span>HSC</span>
                    </li>
                    <li>
-                     <i class="fa fa-chevron-right text-primary"></i>
+                     <i class="bx bxs-chevron-right text-primary"></i>
                      <strong>Email:</strong>
                      <span>sujitsarkar4@gmail.com</span>
                    </li>
                    <li>
-                     <i class="fa fa-chevron-right text-primary"></i>
+                     <i class="bx bxs-chevron-right text-primary"></i>
                      <strong>Freelance:</strong>
                      <span>Unavailable</span>
                    </li>
@@ -112,28 +112,28 @@
          <div class="row">
            <div class="col-md-6 col-lg-3" data-aos="fade-up">
              <div class="count-box">
-               <i class="fa fa-smile-o fa-3x text-primary"></i>
+               <i class="bx bxs-smile text-primary"></i>
                <span class="count">232</span>
                <p class="ml-5"><strong>Happy Clients</strong> <br> consequuntur quae</p>
              </div>
            </div>
            <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="100">
              <div class="count-box">
-               <i class="fa fa-files-o fa-3x text-primary"></i>
+               <i class="bx bxs-file text-primary"></i>
                <span class="count">525</span>
                <p class="ml-5"><strong>Projects </strong> <br> consequuntur quae</p>
              </div>
            </div>
            <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="200">
              <div class="count-box">
-               <i class="fa fa-support fa-3x text-primary"></i>
+               <i class="bx bx-support text-primary"></i>
                <span class="count">1,463</span>
                <p class="ml-5"><strong>Hours Of Support</strong> <br> consequuntur quae</p>
              </div>
            </div>
            <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="300">
              <div class="count-box">
-               <i class="fa fa-users fa-3x text-primary"></i>
+               <i class="bx bxs-group text-primary"></i>
                <span class="count">15</span>
                <p class="ml-5"><strong>Hard Workers</strong> <br> consequuntur quae</p>
              </div>
@@ -291,10 +291,10 @@
                <img src="images/portfolio/portfolio-1.jpg" class="img-fluid" alt="Portfolio Two">
                <div class="portfolio-link">
                  <a href="images/portfolio/portfolio-1.jpg" class="image" title="Web 3">
-                   <i class="fa fa-plus"></i>
+                   <i class="bx bx-plus"></i>
                  </a>
                  <a href="product-details.php" class="more-details" title="More Details">
-                   <i class="fa fa-link"></i>
+                   <i class="bx bx-link"></i>
                  </a>
                </div>
              </div>
@@ -304,10 +304,10 @@
                <img src="images/portfolio/portfolio-2.jpg" class="img-fluid" alt="Portfolio Three">
                <div class="portfolio-link">
                  <a href="images/portfolio/portfolio-2.jpg" class="image" title="App 2">
-                   <i class="fa fa-plus"></i>
+                   <i class="bx bx-plus"></i>
                  </a>
                  <a href="product-details.php" class="more-details" title="More Details">
-                   <i class="fa fa-link"></i>
+                   <i class="bx bx-link"></i>
                  </a>
                </div>
              </div>
@@ -317,10 +317,10 @@
                <img src="images/portfolio/portfolio-3.jpg" class="img-fluid" alt="Portfolio Four">
                <div class="portfolio-link">
                  <a href="images/portfolio/portfolio-3.jpg" class="image" title="Card 2">
-                   <i class="fa fa-plus"></i>
+                   <i class="bx bx-plus"></i>
                  </a>
                  <a href="product-details.php" class="more-details" title="More Details">
-                   <i class="fa fa-link"></i>
+                   <i class="bx bx-link"></i>
                  </a>
                </div>
              </div>
@@ -330,10 +330,10 @@
                <img src="images/portfolio/portfolio-4.jpg" class="img-fluid" alt="Portfolio Five">
                <div class="portfolio-link">
                  <a href="images/portfolio/portfolio-4.jpg" class="image" title="Web 2">
-                   <i class="fa fa-plus"></i>
+                   <i class="bx bx-plus"></i>
                  </a>
                  <a href="product-details.php" class="more-details" title="More Details">
-                   <i class="fa fa-link"></i>
+                   <i class="bx bx-link"></i>
                  </a>
                </div>
              </div>
@@ -343,10 +343,10 @@
                <img src="images/portfolio/portfolio-5.jpg" class="img-fluid" alt="Portfolio Six">
                <div class="portfolio-link">
                  <a href="images/portfolio/portfolio-5.jpg" class="image" title="App 3">
-                   <i class="fa fa-plus"></i>
+                   <i class="bx bx-plus"></i>
                  </a>
                  <a href="product-details.php" class="more-details" title="More Details">
-                   <i class="fa fa-link"></i>
+                   <i class="bx bx-link"></i>
                  </a>
                </div>
              </div>
@@ -356,10 +356,10 @@
                <img src="images/portfolio/portfolio-6.jpg" class="img-fluid" alt="Portfolio Eight">
                <div class="portfolio-link">
                  <a href="images/portfolio/portfolio-6.jpg" class="image" title="Card 1">
-                   <i class="fa fa-plus"></i>
+                   <i class="bx bx-plus"></i>
                  </a>
                  <a href="product-details.php" class="more-details" title="More Details">
-                   <i class="fa fa-link"></i>
+                   <i class="bx bx-link"></i>
                  </a>
                </div>
              </div>
@@ -369,10 +369,10 @@
                <img src="images/portfolio/portfolio-7.jpg" class="img-fluid" alt="Portfolio Eight">
                <div class="portfolio-link">
                  <a href="images/portfolio/portfolio-7.jpg" class="image" title="Card 3">
-                   <i class="fa fa-plus"></i>
+                   <i class="bx bx-plus"></i>
                  </a>
                  <a href="product-details.php" class="more-details" title="More Details">
-                   <i class="fa fa-link"></i>
+                   <i class="bx bx-link"></i>
                  </a>
                </div>
              </div>
@@ -382,10 +382,10 @@
                <img src="images/portfolio/portfolio-8.jpg" class="img-fluid" alt="Portfolio Nine">
                <div class="portfolio-link">
                  <a href="images/portfolio/portfolio-8.jpg" class="image" title="Web 3">
-                   <i class="fa fa-plus"></i>
+                   <i class="bx bx-plus"></i>
                  </a>
                  <a href="product-details.php" class="more-details" title="More Details">
-                   <i class="fa fa-link"></i>
+                   <i class="bx bx-link"></i>
                  </a>
                </div>
              </div>
@@ -395,10 +395,10 @@
                <img src="images/portfolio/portfolio-9.jpg" class="img-fluid" alt="Portfolio Nine">
                <div class="portfolio-link">
                  <a href="images/portfolio/portfolio-9.jpg" class="image" title="App 1">
-                   <i class="fa fa-plus"></i>
+                   <i class="bx bx-plus"></i>
                  </a>
                  <a href="product-details.php" class="more-details" title="More Details">
-                   <i class="fa fa-link"></i>
+                   <i class="bx bx-link"></i>
                  </a>
                </div>
              </div>
@@ -423,10 +423,10 @@
            <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up">
              <div class="media">
                <div class="media-icon">
-                 <i class="fa fa-tv"></i>
+                 <i class="bx bx-laptop"></i>
                </div>
                <div class="media-body">
-                 <p class="media-title">Lorem Ipsum</p>
+                 <p class="media-title">Web Design</p>
                  <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
                </div>
              </div>
@@ -434,10 +434,10 @@
            <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up">
              <div class="media">
                <div class="media-icon">
-                 <i class="fa fa-area-chart"></i>
+                 <i class="bx bx-line-chart"></i>
                </div>
                <div class="media-body">
-                 <p class="media-title">Dolor Sitema</p>
+                 <p class="media-title">Web Development</p>
                  <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
                </div>
              </div>
@@ -445,10 +445,10 @@
            <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up">
              <div class="media">
                <div class="media-icon">
-                 <i class="fa fa-internet-explorer"></i>
+                 <i class="bx bxl-wordpress"></i>
                </div>
                <div class="media-body">
-                 <p class="media-title">Sed ut perspiciatis</p>
+                 <p class="media-title">Wordpress</p>
                  <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
                </div>
              </div>
@@ -456,10 +456,10 @@
            <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up">
              <div class="media">
                <div class="media-icon">
-                 <i class="fa fa-photo"></i>
+                 <i class="bx bx-mobile-alt"></i>
                </div>
                <div class="media-body">
-                 <p class="media-title">Magni Dolores</p>
+                 <p class="media-title">Mobile Friedly</p>
                  <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
                </div>
              </div>
@@ -467,10 +467,10 @@
            <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up">
              <div class="media">
                <div class="media-icon">
-                 <i class="fa fa-wordpress"></i>
+                 <i class="bx bx-bullseye"></i>
                </div>
                <div class="media-body">
-                 <p class="media-title">Nemo Enim</p>
+                 <p class="media-title">Unique Design</p>
                  <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
                </div>
              </div>
@@ -478,10 +478,10 @@
            <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up">
              <div class="media">
                <div class="media-icon">
-                 <i class="fa fa-tasks"></i>
+                 <i class="bx bx-support"></i>
                </div>
                <div class="media-body">
-                 <p class="media-title">Eiusmod Tempor</p>
+                 <p class="media-title">24/7 Support</p>
                  <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
                </div>
              </div>
@@ -589,18 +589,18 @@
                <div class="offline location mb-3">
                  <div class="media">
                    <div class="media-icon">
-                     <i class="fa fa-location-arrow"></i>
+                     <i class="bx bxs-map"></i>
                    </div>
                    <div class="media-body">
                      <p class="media-title">Location:</p>
-                     <p>A108 Adam Street, New York, NY 535022</p>
+                     <p>Sylhet,Bangladesh</p>
                    </div>
                  </div>
                </div>
                <div class="offline email mb-3">
                  <div class="media">
                    <div class="media-icon">
-                     <i class="fa fa-envelope"></i>
+                     <i class="bx bx-envelope"></i>
                    </div>
                    <div class="media-body">
                      <p class="media-title">Email:</p>
@@ -611,7 +611,7 @@
                <div class="offline phone mb-3">
                  <div class="media">
                    <div class="media-icon">
-                     <i class="fa fa-phone"></i>
+                     <i class="bx bx-phone"></i>
                    </div>
                    <div class="media-body">
                      <p class="media-title">Phone:</p>
@@ -620,7 +620,7 @@
                  </div>
                </div>
                <div class="offline map">
-                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3619.2731244731053!2d91.88176171418998!3d24.888663684040548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3751ab9572caf2c3%3A0x7c9b556a94b36cd0!2sLeading%20university!5e0!3m2!1sen!2sbd!4v1582305540630!5m2!1sen!2sbd" width="100%" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57903.12952434508!2d91.82596219169372!3d24.89983731694871!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375054d3d270329f%3A0xf58ef93431f67382!2sSylhet!5e0!3m2!1sen!2sbd!4v1594724577933!5m2!1sen!2sbd" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                </div>
              </div>
            </div>

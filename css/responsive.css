@@ -24,6 +24,9 @@
 }
 /* Extra Large Device Responsive Code Here */
 @media(min-width: 1200px){
+	.hero-section {
+    	background-attachment: fixed;
+	}
 	.mobile-view {
 		
 	}
