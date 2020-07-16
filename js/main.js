@@ -1,20 +1,20 @@
 $(function(){
 	// Mobile view code
 	var returns = false;
-	$(".mobile-view i.fa").click(function(){	
+	$(".mobile-view i").click(function(){	
 		if(returns == false){
-			$(".mobile-view i.fa").removeClass("fa-bars");
-			$(this).addClass("fa-times");
+			$(".mobile-view i").removeClass("icofont-navigation-menu");
+			$(this).addClass("icofont-close");
 			returns = true;
 		}else{
-			$(".mobile-view i.fa").removeClass("fa-times");
-			$(this).addClass("fa-bars");
+			$(".mobile-view i").removeClass("icofont-close");
+			$(this).addClass("icofont-navigation-menu");
 			returns = false;
 		}
 	});
 	// Mobile view responsive code
 	var resMenu = false;
-	$(".mobile-view i.fa").click(function(){
+	$(".mobile-view i").click(function(){
 		if(resMenu == false){
 			$(".header-area").addClass("left");
 			resMenu = true;
@@ -89,6 +89,8 @@ $(function(){
 	$(".nav-menu ul li").click(function(){
 		$(".nav-menu ul li").removeClass("active");
 		$(this).addClass("active");
+		$(".header-area").removeClass("left");
+		$(".mobile-view i").addClass("icofont-navigation-menu");
 	});
 	// Back to top
 	$(window).scroll(function(){

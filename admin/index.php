@@ -25,8 +25,8 @@
               <td>5500.00TK</td>
               <td>02 Jun,2020</td>
               <td>
-                <a href="#" class="btn bg-update"><i class="fa fa-eye"></i></a>
-                <a href="#" class="btn bg-update"><i class="fa fa-times"></i></a>
+                <a href="#" class="btn bg-update"><i class="icofont-eye-alt"></i></a>
+                <a href="#" class="btn bg-update"><i class="icofont-close"></i></i></a>
               </td>
             </tr>
             <tr>
@@ -36,8 +36,8 @@
               <td>5500.00TK</td>
               <td>02 Jun,2020</td>
               <td>
-                <a href="#" class="btn btn-danger"><i class="fa fa-eye"></i></a>
-                <a href="#" class="btn btn-danger"><i class="fa fa-times"></i></a>
+                <a href="#" class="btn bg-update"><i class="icofont-eye-alt"></i></a>
+                <a href="#" class="btn bg-update"><i class="icofont-close"></i></i></a>
               </td>
             </tr>
             <tr>
@@ -47,8 +47,8 @@
               <td>5500.00TK</td>
               <td>02 Jun,2020</td>
               <td>
-                <a href="#" class="btn btn-danger"><i class="fa fa-eye"></i></a>
-                <a href="#" class="btn btn-danger"><i class="fa fa-times"></i></a>
+                <a href="#" class="btn bg-update"><i class="icofont-eye-alt"></i></a>
+                <a href="#" class="btn bg-update"><i class="icofont-close"></i></i></a>
               </td>
             </tr>
             <tr>
@@ -58,8 +58,8 @@
               <td>5500.00TK</td>
               <td>02 Jun,2020</td>
               <td>
-                <a href="#" class="btn btn-danger"><i class="fa fa-eye"></i></a>
-                <a href="#" class="btn btn-danger"><i class="fa fa-times"></i></a>
+                <a href="#" class="btn bg-update"><i class="icofont-eye-alt"></i></a>
+                <a href="#" class="btn bg-update"><i class="icofont-close"></i></i></a>
               </td>
             </tr>
             <tr>
@@ -69,8 +69,8 @@
               <td>5500.00TK</td>
               <td>02 Jun,2020</td>
               <td>
-                <a href="#" class="btn btn-danger"><i class="fa fa-eye"></i></a>
-                <a href="#" class="btn btn-danger"><i class="fa fa-times"></i></a>
+                <a href="#" class="btn bg-update"><i class="icofont-eye-alt"></i></a>
+                <a href="#" class="btn bg-update"><i class="icofont-close"></i></i></a>
               </td>
             </tr>
             <tr>
@@ -80,8 +80,8 @@
               <td>5500.00TK</td>
               <td>02 Jun,2020</td>
               <td>
-                <a href="#" class="btn btn-danger"><i class="fa fa-eye"></i></a>
-                <a href="#" class="btn btn-danger"><i class="fa fa-times"></i></a>
+                <a href="#" class="btn bg-update"><i class="icofont-eye-alt"></i></a>
+                <a href="#" class="btn bg-update"><i class="icofont-close"></i></i></a>
               </td>
             </tr>
           </tbody>

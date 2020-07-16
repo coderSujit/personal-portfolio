@@ -1,37 +1,42 @@
 <!doctype html>
 <html lang="en-US">
-  <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <!-- Bootstrap CSS -->
-    <link type="text/css" rel="stylesheet" href="css/bootstrap.min.css">
-	<!-- Fontawesome CSS -->
-    <link type="text/css" rel="stylesheet" href="css/font-awesome.min.css">
-    <link type="text/css" rel="stylesheet" href="css/all.min.css">
-    <link type="text/css" rel="stylesheet" href="css/boxicons.min.css">
+<head>
+  <title>Portfolio</title>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <!-- Favicon -->
+  <link rel="icon" href="images/favicon.png" type="image/x-icon">
+  <link rel="icon" href="images/apple-touch-icon.png" type="image/x-icon">
+  <!-- Bootstrap CSS -->
+  <link type="text/css" rel="stylesheet" href="css/bootstrap.min.css">
+  <!-- Icon CSS -->
+  <link type="text/css" rel="stylesheet" href="css/boxicons.min.css">
+  <link type="text/css" rel="stylesheet" href="css/icofont.min.css">
   <!-- AOS CSS -->
-    <link type="text/css" rel="stylesheet" href="css/aos.css">
+  <link type="text/css" rel="stylesheet" href="css/aos.css">
   <!-- Magnific Popup CSS -->
-    <link type="text/css" rel="stylesheet" href="css/magnific-popup.css">
+  <link type="text/css" rel="stylesheet" href="css/magnific-popup.css">
   <!-- Owl Carousel CSS -->
-    <link type="text/css" rel="stylesheet" href="css/owl.carousel.min.css">
-    <link type="text/css" rel="stylesheet" href="css/owl.theme.default.min.css">
-    <link type="text/css" rel="stylesheet" href="css/owl.theme.green.min.css">
-	<!-- Custom CSS -->
-    <link type="text/css" rel="stylesheet" href="css/style.css">
-    <link type="text/css" rel="stylesheet" href="css/responsive.css">
+  <link type="text/css" rel="stylesheet" href="css/owl.carousel.min.css">
+  <link type="text/css" rel="stylesheet" href="css/owl.theme.default.min.css">
+  <link type="text/css" rel="stylesheet" href="css/owl.theme.green.min.css">
+  <!-- Custom CSS -->
+  <link type="text/css" rel="stylesheet" href="css/style.css">
+  <link type="text/css" rel="stylesheet" href="css/responsive.css">
+</head>
 
-    <title>Portfolio</title>
-  </head>
-  <body onload="preloader();" data-spy="scroll" data-target="header.header">
-	 <div class="wrapper">
+<body onload="preloader();" data-spy="scroll" data-target="header.header">
+  <div class="wrapper">
     <div class="preloader">
       <div class="loader"></div>
     </div>
     <button class="mobile-view d-xl-none">
-      <i class="fa fa-bars"></i>
+      <i class="icofont-navigation-menu"></i>
     </button>
     <!-- HEADER SECTION START HERE -->
     <header class="header header-area header-section" id="header">
@@ -42,11 +47,25 @@
             <h4 class="font-weight-bold my-3">Sujit Sarkar</h4>
           </div>
           <div class="profile-social">
-            <a href=""><i class="bx bxl-facebook"></i></a>
-            <a href=""><i class="bx bxl-twitter"></i></a>
-            <a href=""><i class="bx bxl-instagram"></i></a>
-            <a href=""><i class="bx bxl-skype"></i></a>
-            <a href=""><i class="bx bxl-linkedin"></i></a>
+            <a href="https://facebook.com/codersujit" target="_blank">
+              <i class="bx bxl-facebook"></i>
+            </a>
+            <a href="https://twitter.com/" target="_blank">
+              <i class="bx bxl-twitter"></i>
+            </a>
+            <a href="https://instagram.com/" target="_blank">
+              <i class="bx bxl-instagram"></i>
+            </a>
+            </a>
+            <a href="https://github.com/coderSujit" target="_blank">
+              <i class="bx bxl-github"></i>
+            </a>
+            <a href="https://skype.com/" target="_blank">
+              <i class="bx bxl-skype"></i>
+            </a>
+            <a href="https://linkedin.com/" target="_blank">
+              <i class="bx bxl-linkedin"></i>
+            </a>
           </div>
         </div>
         <nav class="nav-menu mt-4">
@@ -72,9 +91,9 @@
           </ul>
         </nav>
         <div class="copy-right text-center text-white">
-          <p class="mb-0">&copy; Copyright i<strong>Portfolio</strong></p>
-          <p>Design By <a href="www.facebook.com/" class="text-primary">Sujit Sarkar</a></p>
+          <p class="mb-0">&copy; Copyright <strong>Sujit Sarkar</strong></p>
+          <p>Design By <a href="www.facebook.com/codersujit" class="text-primary" target="_blank">Sujit Sarkar</a></p>
         </div>
       </div>
-   </header>
-   <!-- HEADER SECTION END HERE -->
+    </header>
+    <!-- HEADER SECTION END HERE -->
